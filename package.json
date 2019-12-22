@@ -1,0 +1,17 @@
+{
+  "name": "twitterx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "pretty-ms": "^5.0.0",
+    "twit": "^2.2.11"
+  }
+}
