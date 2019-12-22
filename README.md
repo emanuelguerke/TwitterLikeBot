@@ -1,7 +1,7 @@
 # TwitterLikeBot
 bot to like things
 
-create a .env 
+create a .env  
 API_KEY=   
 API_SECRET=  
 ACCESS_TOKEN=  
